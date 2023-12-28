@@ -36,7 +36,6 @@
 	  <Folder Include="Screenshots\" />
 	  <Folder Include="Reports\" />
 	  <Folder Include="Logs\" />
-	  <Folder Include="Selenium Tests\Tests\" />
 	  <Folder Include="Selenium Tests\Pages\" />
 	</ItemGroup>
 
